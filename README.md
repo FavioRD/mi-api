@@ -32,8 +32,8 @@ Este proyecto es una aplicación web que permite listar, agregar y eliminar prod
 ### Paso 1️⃣: Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/mi-proyecto-productos.git
-cd mi-proyecto-productos
+git clone https://github.com/FavioRD/mi-api.git
+cd mi-api
 ```
 
 ### Paso 2️⃣: Instalar las dependencias
