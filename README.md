@@ -49,16 +49,7 @@ El servidor estará disponible en: http://localhost:3000
 Paso 4️⃣: Abrir el archivo HTML
 Abre index.html en tu navegador o usa una extensión como Live Server si trabajas con VS Code.
 
-## e. 🔗 Endpoints de la API
-
-Método	Ruta	Descripción
-
-GET	/api/productos	Obtener todos los productos
-GET	/api/productos/:id	Obtener un producto por ID
-POST	/api/productos	Agregar nuevo producto
-DELETE	/api/productos/:id	Eliminar producto por ID
-
-## f. 🧪 Ejemplo de JSON
+## e. 🧪 Ejemplo de JSON
 
 json
 {
